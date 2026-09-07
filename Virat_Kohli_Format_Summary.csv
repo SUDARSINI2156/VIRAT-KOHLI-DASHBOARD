@@ -1,0 +1,5 @@
+Format,Category,Matches,Innings,Not_Outs,Runs,Highest_Score,Average,Balls_Faced,Strike_Rate,Centuries,Half_Centuries,Fours,Sixes,Ducks,Win_Percentage
+ODI,International,295,283,44,13906,183,58.18,14867,93.54,50,72,1302,151,16,65.4
+Test,International,113,191,11,8848,254*,49.16,15914,55.6,29,30,991,26,14,52.2
+IPL,Franchise T20,252,244,37,8004,113*,38.67,6065,131.97,8,55,705,272,10,48.8
+T20I,International,125,117,31,4188,122*,48.7,3056,137.04,1,38,369,124,7,68.0
